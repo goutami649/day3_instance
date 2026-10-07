@@ -100,8 +100,7 @@ h1 span {
     #60a5fa,
     #a78bfa
   );
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+ 
 }
 
 .subtitle {
